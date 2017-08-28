@@ -1,0 +1,28 @@
+Converting GML script : ${project_dir}\objects\obj_player\Step_0.gml
+Converted builtin : line 94 : background_hspeed[0] = -1 * dir * 3 -> __background_set( e__BG.HSpeed, 0, -1 * dir * 3 )
+Converted builtin : line 95 : background_hspeed[1] = -1 * dir * 4 -> __background_set( e__BG.HSpeed, 1, -1 * dir * 4 )
+Converted builtin : line 99 : background_hspeed[0] = 0 -> __background_set( e__BG.HSpeed, 0, 0 )
+Converted builtin : line 100 : background_hspeed[1] = 0 -> __background_set( e__BG.HSpeed, 1, 0 )
+Converted description : /// @description Move
+
+Converting GML script : ${project_dir}\objects\obj_panda\Create_0.gml
+Converted description : /// @description Initialize Variables
+
+Converting GML script : ${project_dir}\objects\obj_panda\Step_0.gml
+Converted description : /// @description Move
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit.
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2.
+game speed set to 30
+added compatibility script action/action_kill_object.gml
+added compatibility script background/__background_set.gml
+added compatibility script background/__background_set_internal.gml
+added compatibility script instance/instance_create.gml
+added compatibility script object/object_get_depth.gml
+added compatibility script action/__init_action.gml
+added compatibility script background/__init_background.gml
+added compatibility script __init_global.gml
+added compatibility script background/__background_get_element.gml
+added compatibility script background/__background_get_internal.gml
+added compatibility script background/__background_set_element.gml
+added compatibility script __global_object_depths.gml
